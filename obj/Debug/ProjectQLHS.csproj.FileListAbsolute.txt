@@ -1,0 +1,86 @@
+C:\Users\PC\source\repos\ProjectQLHS\ProjectQLHS\bin\Debug\ProjectQLHS.exe.config
+C:\Users\PC\source\repos\ProjectQLHS\ProjectQLHS\bin\Debug\ProjectQLHS.exe
+C:\Users\PC\source\repos\ProjectQLHS\ProjectQLHS\bin\Debug\ProjectQLHS.pdb
+C:\Users\PC\source\repos\ProjectQLHS\ProjectQLHS\obj\Debug\ProjectQLHS.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\ProjectQLHS\ProjectQLHS\obj\Debug\ProjectQLHS.frmQuanLyHocSinh.resources
+C:\Users\PC\source\repos\ProjectQLHS\ProjectQLHS\obj\Debug\ProjectQLHS.Properties.Resources.resources
+C:\Users\PC\source\repos\ProjectQLHS\ProjectQLHS\obj\Debug\ProjectQLHS.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\ProjectQLHS\ProjectQLHS\obj\Debug\ProjectQLHS.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ProjectQLHS\ProjectQLHS\obj\Debug\ProjectQLHS.exe
+C:\Users\PC\source\repos\ProjectQLHS\ProjectQLHS\obj\Debug\ProjectQLHS.pdb
+C:\Users\PC\source\repos\ProjectQLHS\ProjectQLHS\obj\Debug\ProjectQLHS.frmHeThong.resources
+C:\Users\PC\source\repos\ProjectQLHS\ProjectQLHS\obj\Debug\QuanLyHocSinh.frmLop.resources
+C:\Users\PC\source\repos\ProjectQLHS\ProjectQLHS\obj\Debug\ProjectQLHS.frmDangNhap.resources
+C:\Users\PC\source\repos\ProjectQLHS\ProjectQLHS\obj\Debug\ProjectQLHS.frmThongTin.resources
+C:\DoAn\ProjectQLHS\bin\Debug\ProjectQLHS.exe.config
+C:\DoAn\ProjectQLHS\bin\Debug\ProjectQLHS.exe
+C:\DoAn\ProjectQLHS\bin\Debug\ProjectQLHS.pdb
+C:\DoAn\ProjectQLHS\obj\Debug\ProjectQLHS.csproj.AssemblyReference.cache
+C:\DoAn\ProjectQLHS\obj\Debug\ProjectQLHS.csproj.SuggestedBindingRedirects.cache
+C:\DoAn\ProjectQLHS\obj\Debug\ProjectQLHS.frmQuanLyHocSinh.resources
+C:\DoAn\ProjectQLHS\obj\Debug\ProjectQLHS.frmHeThong.resources
+C:\DoAn\ProjectQLHS\obj\Debug\QuanLyHocSinh.frmLop.resources
+C:\DoAn\ProjectQLHS\obj\Debug\ProjectQLHS.frmDangNhap.resources
+C:\DoAn\ProjectQLHS\obj\Debug\ProjectQLHS.frmThongTin.resources
+C:\DoAn\ProjectQLHS\obj\Debug\ProjectQLHS.Properties.Resources.resources
+C:\DoAn\ProjectQLHS\obj\Debug\ProjectQLHS.csproj.GenerateResource.cache
+C:\DoAn\ProjectQLHS\obj\Debug\ProjectQLHS.csproj.CoreCompileInputs.cache
+C:\DoAn\ProjectQLHS\obj\Debug\ProjectQLHS.exe
+C:\DoAn\ProjectQLHS\obj\Debug\ProjectQLHS.pdb
+C:\Users\PC\source\repos\DoAn\ProjectQLHS\bin\Debug\ProjectQLHS.exe.config
+C:\Users\PC\source\repos\DoAn\ProjectQLHS\bin\Debug\ProjectQLHS.exe
+C:\Users\PC\source\repos\DoAn\ProjectQLHS\bin\Debug\ProjectQLHS.pdb
+C:\Users\PC\source\repos\DoAn\ProjectQLHS\obj\Debug\ProjectQLHS.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\DoAn\ProjectQLHS\obj\Debug\ProjectQLHS.frmQuanLyHocSinh.resources
+C:\Users\PC\source\repos\DoAn\ProjectQLHS\obj\Debug\ProjectQLHS.frmHeThong.resources
+C:\Users\PC\source\repos\DoAn\ProjectQLHS\obj\Debug\QuanLyHocSinh.frmLop.resources
+C:\Users\PC\source\repos\DoAn\ProjectQLHS\obj\Debug\ProjectQLHS.frmDangNhap.resources
+C:\Users\PC\source\repos\DoAn\ProjectQLHS\obj\Debug\ProjectQLHS.frmThongTin.resources
+C:\Users\PC\source\repos\DoAn\ProjectQLHS\obj\Debug\ProjectQLHS.Properties.Resources.resources
+C:\Users\PC\source\repos\DoAn\ProjectQLHS\obj\Debug\ProjectQLHS.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\DoAn\ProjectQLHS\obj\Debug\ProjectQLHS.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\DoAn\ProjectQLHS\obj\Debug\ProjectQLHS.exe
+C:\Users\PC\source\repos\DoAn\ProjectQLHS\obj\Debug\ProjectQLHS.pdb
+C:\Users\PC\source\repos\DoAn old\ProjectQLHS\bin\Debug\ProjectQLHS.exe.config
+C:\Users\PC\source\repos\DoAn old\ProjectQLHS\bin\Debug\ProjectQLHS.exe
+C:\Users\PC\source\repos\DoAn old\ProjectQLHS\bin\Debug\ProjectQLHS.pdb
+C:\Users\PC\source\repos\DoAn old\ProjectQLHS\obj\Debug\ProjectQLHS.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\DoAn old\ProjectQLHS\obj\Debug\ProjectQLHS.frmQuanLyHocSinh.resources
+C:\Users\PC\source\repos\DoAn old\ProjectQLHS\obj\Debug\ProjectQLHS.frmHeThong.resources
+C:\Users\PC\source\repos\DoAn old\ProjectQLHS\obj\Debug\QuanLyHocSinh.frmLop.resources
+C:\Users\PC\source\repos\DoAn old\ProjectQLHS\obj\Debug\ProjectQLHS.frmDangNhap.resources
+C:\Users\PC\source\repos\DoAn old\ProjectQLHS\obj\Debug\ProjectQLHS.frmThongTin.resources
+C:\Users\PC\source\repos\DoAn old\ProjectQLHS\obj\Debug\ProjectQLHS.Properties.Resources.resources
+C:\Users\PC\source\repos\DoAn old\ProjectQLHS\obj\Debug\ProjectQLHS.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\DoAn old\ProjectQLHS\obj\Debug\ProjectQLHS.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\DoAn old\ProjectQLHS\obj\Debug\ProjectQLHS.exe
+C:\Users\PC\source\repos\DoAn old\ProjectQLHS\obj\Debug\ProjectQLHS.pdb
+C:\Users\PC\source\repos\DoAn hoàn chỉnh cmnl\ProjectQLHS\bin\Debug\ProjectQLHS.exe.config
+C:\Users\PC\source\repos\DoAn hoàn chỉnh cmnl\ProjectQLHS\bin\Debug\ProjectQLHS.exe
+C:\Users\PC\source\repos\DoAn hoàn chỉnh cmnl\ProjectQLHS\bin\Debug\ProjectQLHS.pdb
+C:\Users\PC\source\repos\DoAn hoàn chỉnh cmnl\ProjectQLHS\obj\Debug\ProjectQLHS.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\DoAn hoàn chỉnh cmnl\ProjectQLHS\obj\Debug\ProjectQLHS.frmQuanLyHocSinh.resources
+C:\Users\PC\source\repos\DoAn hoàn chỉnh cmnl\ProjectQLHS\obj\Debug\ProjectQLHS.frmHeThong.resources
+C:\Users\PC\source\repos\DoAn hoàn chỉnh cmnl\ProjectQLHS\obj\Debug\QuanLyHocSinh.frmLop.resources
+C:\Users\PC\source\repos\DoAn hoàn chỉnh cmnl\ProjectQLHS\obj\Debug\ProjectQLHS.frmDangNhap.resources
+C:\Users\PC\source\repos\DoAn hoàn chỉnh cmnl\ProjectQLHS\obj\Debug\ProjectQLHS.frmThongTin.resources
+C:\Users\PC\source\repos\DoAn hoàn chỉnh cmnl\ProjectQLHS\obj\Debug\ProjectQLHS.Properties.Resources.resources
+C:\Users\PC\source\repos\DoAn hoàn chỉnh cmnl\ProjectQLHS\obj\Debug\ProjectQLHS.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\DoAn hoàn chỉnh cmnl\ProjectQLHS\obj\Debug\ProjectQLHS.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\DoAn hoàn chỉnh cmnl\ProjectQLHS\obj\Debug\ProjectQLHS.exe
+C:\Users\PC\source\repos\DoAn hoàn chỉnh cmnl\ProjectQLHS\obj\Debug\ProjectQLHS.pdb
+C:\Users\ASUS\Desktop\New folder\DoAn hoàn chỉnh cmnl\ProjectQLHS\bin\Debug\ProjectQLHS.exe.config
+C:\Users\ASUS\Desktop\New folder\DoAn hoàn chỉnh cmnl\ProjectQLHS\bin\Debug\ProjectQLHS.exe
+C:\Users\ASUS\Desktop\New folder\DoAn hoàn chỉnh cmnl\ProjectQLHS\bin\Debug\ProjectQLHS.pdb
+C:\Users\ASUS\Desktop\New folder\DoAn hoàn chỉnh cmnl\ProjectQLHS\obj\Debug\ProjectQLHS.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\New folder\DoAn hoàn chỉnh cmnl\ProjectQLHS\obj\Debug\ProjectQLHS.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\New folder\DoAn hoàn chỉnh cmnl\ProjectQLHS\obj\Debug\ProjectQLHS.frmQuanLyHocSinh.resources
+C:\Users\ASUS\Desktop\New folder\DoAn hoàn chỉnh cmnl\ProjectQLHS\obj\Debug\ProjectQLHS.frmHeThong.resources
+C:\Users\ASUS\Desktop\New folder\DoAn hoàn chỉnh cmnl\ProjectQLHS\obj\Debug\QuanLyHocSinh.frmLop.resources
+C:\Users\ASUS\Desktop\New folder\DoAn hoàn chỉnh cmnl\ProjectQLHS\obj\Debug\ProjectQLHS.frmDangNhap.resources
+C:\Users\ASUS\Desktop\New folder\DoAn hoàn chỉnh cmnl\ProjectQLHS\obj\Debug\ProjectQLHS.frmThongTin.resources
+C:\Users\ASUS\Desktop\New folder\DoAn hoàn chỉnh cmnl\ProjectQLHS\obj\Debug\ProjectQLHS.Properties.Resources.resources
+C:\Users\ASUS\Desktop\New folder\DoAn hoàn chỉnh cmnl\ProjectQLHS\obj\Debug\ProjectQLHS.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\New folder\DoAn hoàn chỉnh cmnl\ProjectQLHS\obj\Debug\ProjectQLHS.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\New folder\DoAn hoàn chỉnh cmnl\ProjectQLHS\obj\Debug\ProjectQLHS.exe
+C:\Users\ASUS\Desktop\New folder\DoAn hoàn chỉnh cmnl\ProjectQLHS\obj\Debug\ProjectQLHS.pdb
